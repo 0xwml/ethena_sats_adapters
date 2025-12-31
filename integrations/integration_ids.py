@@ -74,6 +74,12 @@ class IntegrationID(Enum):
         Token.SUSDE,
     )
 
+    THALA_SUSDE_V3_LP = (
+        "thala_susde_usdc_v3_lp",
+        "Thala sUSDe/USDC V3 LP",
+        Token.SUSDE,
+    )
+
     # Echelon
     ECHELON_SUSDE_COLLATERAL = (
         "echelon_susde_collateral",
